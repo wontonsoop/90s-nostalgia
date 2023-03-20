@@ -119,5 +119,5 @@
 23. Select the p inside footer
   - Make sure it is contained using the class of `wrapper` 
   - Ajust alignment to be centered
-  - Add padding to the top and bottom with the value of `10em` and set the left and right value to `0`    
+  - Add padding to the top and bottom with the value of `8px` and set the left and right value to `0`    
      
