@@ -9,7 +9,6 @@
   - `Regular 400`, `Regular 400 Italic` & `Bold 700`
 - Complete the tasks below by updating your css as instructed below.
 - Reference the screenshot of the styled page to double check it matches your work.
-- **Do not change the HTML except to link the css and add Google fonts.**
 
 
 ## Update your CSS by completing the following tasks:
