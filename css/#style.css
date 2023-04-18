@@ -112,7 +112,7 @@ display: inline-block;
 padding: 2em 0 2em 0;
 }
 
-.icon > img {
+.icon img {
     width: 260px;
     float: left;
     margin: 2em;
