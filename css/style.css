@@ -5,7 +5,30 @@ html {
     font-size: 110%;
     box-sizing: border-box;
     background-color: white; box-sizing: inherit;
+    
 }
+
+.nostalgia {
+    
+    width: 160px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: 700px;
+
+
+}
+
+#intro {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.fashion-icons {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 
 body {
     margin: 0;
@@ -16,11 +39,7 @@ img {
     width: 100%;
 }
 
-.logo {
-    width: 160px;
-    display: block;
-    margin: 0 auto;
-}
+
 
 .wrapper {
     width: 900px;
@@ -37,6 +56,15 @@ header {
     padding-bottom: 1.5em;
     padding-right: 0;
     padding-left: 0;
+}
+
+.shirts {
+    display: flex;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-color: purple;
+    justify-content: center;
+    text-align: center;
 }
 
 nav ul {
@@ -72,7 +100,7 @@ color: purple;
 border: 2px solid purple;
 }
 
-.hero{
+.introductions {
     background-image: url("../images/greatest-90s-fashion-trends.webp");
     width:100%;
     padding: 10em 0 10em 0;
@@ -92,9 +120,7 @@ h1 {
     background-color: rgba(0,0,0,.25);
 }
 
-.trends {
-    background-color: purple;
-}
+
 
 .trends figure{
     width: 22%;
